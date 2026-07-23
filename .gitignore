@@ -1,0 +1,9 @@
+*.o
+*.so
+*.a
+build/
+.env
+*.tmp
+*.log
+dist/
+*.pyc
